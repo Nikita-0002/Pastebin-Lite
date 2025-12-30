@@ -1,0 +1,16 @@
+{
+  "c35ff810-bf56-4c06-9c25-f795ef242385": {
+    "content": "Hello, this is my first paste!",
+    "createdAt": 1767075013126,
+    "ttl_seconds": 60,
+    "max_views": 5,
+    "views": 0
+  },
+  "fcce77f3-3b7a-4193-a8a3-aec363a56651": {
+    "content": "Hello, this is my first paste!",
+    "createdAt": 1767075175215,
+    "ttl_seconds": 600,
+    "max_views": 5,
+    "views": 0
+  }
+}
