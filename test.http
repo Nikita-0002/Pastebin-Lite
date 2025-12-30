@@ -1,8 +1,8 @@
-POST http://localhost:3000/api/pastes
+POST https://pastebin-lite-git-master-nikita-metanges-projects.vercel.app/api/pastes
 Content-Type: application/json
 
 {
-  "content": "Hello, this is my first paste!",
+  "content": "Hello world!",
   "ttl_seconds": 600,
   "max_views": 5
 }
